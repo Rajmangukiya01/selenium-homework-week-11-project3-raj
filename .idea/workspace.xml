@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="111b8b87-f05f-41f4-a73e-a72e96c38d2c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HYfqJ1sxrTsjFiv8FPBsg2BSTl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/RAJ/IdeaProjects/com-herokuaap",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RAJ\IdeaProjects\com-herokuaap\drivers" />
+      <recent name="C:\Users\RAJ\IdeaProjects\com-herokuaap\jars" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MultiBrowserTest">
+    <configuration name="ChromeBrowserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browsertesting.ChromeBrowserTest" />
+      <module name="com-herokuaap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EdgeBrowserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browsertesting.EdgeBrowserTest" />
+      <module name="com-herokuaap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirefoxBrowserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browsertesting.FirefoxBrowserTest" />
+      <module name="com-herokuaap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiBrowserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browsertesting.MultiBrowserTest" />
+      <module name="com-herokuaap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultiBrowserTest" />
+        <item itemvalue="Application.FirefoxBrowserTest" />
+        <item itemvalue="Application.EdgeBrowserTest" />
+        <item itemvalue="Application.ChromeBrowserTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="111b8b87-f05f-41f4-a73e-a72e96c38d2c" name="Changes" comment="" />
+      <created>1668467129974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668467129974</updated>
+    </task>
+    <servers />
+  </component>
+</project>
